@@ -1,0 +1,10 @@
+D:\Workspace\simple_expression_calc\SimpleExpressionCalc\SimpleExpressionCalc\bin\Debug\SimpleExpressionCalc.exe.config
+D:\Workspace\simple_expression_calc\SimpleExpressionCalc\SimpleExpressionCalc\bin\Debug\SimpleExpressionCalc.exe
+D:\Workspace\simple_expression_calc\SimpleExpressionCalc\SimpleExpressionCalc\bin\Debug\SimpleExpressionCalc.pdb
+D:\Workspace\simple_expression_calc\SimpleExpressionCalc\SimpleExpressionCalc\obj\Debug\SimpleExpressionCalc.csprojAssemblyReference.cache
+D:\Workspace\simple_expression_calc\SimpleExpressionCalc\SimpleExpressionCalc\obj\Debug\SimpleExpressionCalc.Properties.Resources.resources
+D:\Workspace\simple_expression_calc\SimpleExpressionCalc\SimpleExpressionCalc\obj\Debug\SimpleExpressionCalc.csproj.GenerateResource.cache
+D:\Workspace\simple_expression_calc\SimpleExpressionCalc\SimpleExpressionCalc\obj\Debug\SimpleExpressionCalc.csproj.CoreCompileInputs.cache
+D:\Workspace\simple_expression_calc\SimpleExpressionCalc\SimpleExpressionCalc\obj\Debug\SimpleExpressionCalc.exe
+D:\Workspace\simple_expression_calc\SimpleExpressionCalc\SimpleExpressionCalc\obj\Debug\SimpleExpressionCalc.pdb
+D:\Workspace\simple_expression_calc\SimpleExpressionCalc\SimpleExpressionCalc\obj\Debug\SimpleExpressionCalc.Программа.resources
